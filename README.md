@@ -14,7 +14,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-StefanosMarinos-black?logo=github)](https://github.com/StefanosMarinos)
 
- #### About Me
+ #### 💻About Me
 
 *  **Academic Focus:** Currently pursuing my B.Sc. in Computer Science at **UNIPI**, focusing on CyberAttacks, Database Systems, and Network Architecture.
 
@@ -24,7 +24,7 @@
 
 ---
 
-#### Right Now
+#### 💡Right Now
 
 *  **SOC Operations:** Actively deep-diving into the **SOC Level 1 Learning Path** on TryHackMe.
 
@@ -34,7 +34,7 @@
 
 ---
 
-#### Tech Stack & Tools
+#### 📖Tech Stack & Tools
 
 * **Core Languages:** C++, Java, Python, C#, Bash Scripting.
 
