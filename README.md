@@ -14,6 +14,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-StefanosMarinos-black?logo=github)](https://github.com/StefanosMarinos)
 
+[![CVE](https://img.shields.io/badge/CVE-2026--StefanosMarinos-red?style=flat&logo=cyberdefenders)](https://drive.google.com/file/d/1AHQZuJu5lE5vHuYLQUT1UWlxl3jb1zBc/view?usp=drive_link)
+
  #### 💻About Me
 
 *  **Academic Focus:** Currently pursuing my B.Sc. in Computer Science at **UNIPI**, focusing on CyberAttacks, Database Systems, and Network Architecture.
