@@ -40,4 +40,4 @@
 
 * **Databases & Infra:** MySQL, PostgreSQL, Supabase, Git, Linux CLI environments.
 
-* **CTF & Ethical Hacking:** Completed several challenges and rooms.
+* **CTF & Ethical Hacking:** Completed several challenges and rooms using Linux.
