@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=3D7FF7&width=435&lines=Marinos+Stefanos;C+%2B%2B+Engineer+%7C+SOC+analyst" alt="Typing SVG" />
+</a>
 
 <!--
 **StefanosMarinos/StefanosMarinos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
