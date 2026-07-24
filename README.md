@@ -1,7 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&multiline=true&width=435&lines=Marinos+Stefanos;C+%2B%2B+Engineer+%7C+SOC+analyst" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&multiline=true&width=435&lines=Marinos+Stefanos;C+%2B%2B+Engineer+%7C+Pen+Tester" alt="Typing SVG" /></a>
 <br>
 🎓 Undergraduate Student @ University of Piraeus (Department of Informatics)
-  Aspiring Cyber Security & Junior SOC Analyst
+  Aspiring Cyber Security & Junior Pen tester
  <hr>
 <h3>
   Connect with me
