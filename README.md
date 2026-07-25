@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&multiline=true&width=435&lines=Marinos+Stefanos;C+%2B%2B+Engineer+%7C+Pen+Tester" alt="Typing SVG" /></a>
 <br>
 🎓 Undergraduate Student @ University of Piraeus (Department of Informatics)
-  Aspiring Cyber Security & Junior Pen tester
+  Aspiring Cyber Security & Pen tester
  <hr>
 <h3>
   Connect with me
@@ -13,8 +13,6 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Stefan0s-red?logo=tryhackme)](https://tryhackme.com/p/Stefan0s)
 
 [![GitHub](https://img.shields.io/badge/GitHub-StefanosMarinos-black?logo=github)](https://github.com/StefanosMarinos)
-
-[![CVE](https://img.shields.io/badge/CVE-2026--StefanosMarinos-red?style=flat&logo=cyberdefenders)](https://drive.google.com/file/d/1AHQZuJu5lE5vHuYLQUT1UWlxl3jb1zBc/view?usp=drive_link)
 
  #### 💻About Me
 
@@ -28,7 +26,7 @@
 
 #### 💡Right Now
 
-*  **SOC Operations:** Actively deep-diving into the **SOC Level 1 Learning Path** on TryHackMe.
+*  **Burp Suite use:** Actively deep-diving into the **Deep understanding of Burp suite** and requests.
 
 *  **SIEM & Monitoring:** Hands-on training with **Splunk Enterprise** for log investigation, event correlation, and *Wireshark* for network packet/traffic analysis.
 
